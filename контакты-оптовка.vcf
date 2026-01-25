@@ -1,23 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Лашкевич;Валерий;;;
-FN:Валерий Лашкевич
-ORG:Фотошкола Валерия Лашкевича
-ADR;TYPE=WORK:Караганда, Ержанова 10/2, офис 209
+N:Саркыт;Оптовка;;;
+FN:Оптовка на Саркыте
+ORG:Оптовка на Саркыте
+ADR;TYPE=WORK:Караганда, ул. Затаевича 75, ТД Саркыт, бутик 31-34
 TITLE:
-TEL;TYPE=CELL:+77013110143
+TEL;TYPE=CELL:+77074505054
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:
-URL;TYPE=Digital Business Card:https://qr.photoschool.kz
-URL:https://xn--80atdkabzo3b.kz/
-URL;TYPE=Telegram:https://t.me/v_lashkevich
-URL;TYPE=WhatsApp:https://wa.me/77013110143
-URL;TYPE=Website:https://xn--80atdkabzo3b.kz/
-URL;TYPE=VK:https://vk.com/lashkevichphotoschool
-URL;TYPE=Instagram:https://instagram.com/lashkevichphotoschool
+URL;TYPE=Digital Business Card:https://optovka-v-karagande.github.io/qr/
+URL;TYPE=Telegram:https://t.me/optovka_v_karagande
+URL;TYPE=WhatsApp:https://wa.me/77074505054
+URL;TYPE=Instagram:https://instagram.com/optovka_v_karagande
+URL;TYPE=Instagram:https://instagram.com/opt_v_dom
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:Обучение фотографии в Караганде
-UID:EnBizCard-100847259
+NOTE:Оптовая и розничная продажа в Караганде
+UID:100847259
 END:VCARD

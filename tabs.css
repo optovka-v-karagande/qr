@@ -12,7 +12,7 @@ body {
 }
 
 .tabs-wrapper {
-  max-width: 1200px;
+  max-width: 100%;
   min-width: 100%;
   margin: 0 auto;
   border: 2px solid #cce0f5;
@@ -99,6 +99,8 @@ body {
   font-weight: 500;
   color: #222;
   margin-bottom: 4px;
+  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .card-description {

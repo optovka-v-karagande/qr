@@ -12,7 +12,7 @@ body {
 }
 
 .tabs-wrapper {
-  max-width: 100%;
+  max-width: 90%;
   min-width: 100%;
   margin: 0 auto;
   border: 2px solid #cce0f5;
